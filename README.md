@@ -173,7 +173,7 @@ As you can see here, `jdeps` identified that we need both `java.base` and `java.
 
 # Wrapping up
 
-Seems like we're ready to ship our weather CLI to our clients. However, before we can do that, we need to make sure it works:
+Seems like we're ready to ship our CLI to our clients. However, before we can do that, we need to make sure it works:
 
 ```
 ~/t/simple-scala-cli> ./target/universal/stage/bin/simple-scala-cli
